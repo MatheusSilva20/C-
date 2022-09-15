@@ -1,0 +1,14 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.deps.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.runtimeconfig.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.runtimeconfig.dev.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\bin\Debug\netcoreapp3.1\OperadoresAtribuição.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.AssemblyInfo.cs
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\OperadoresAtribuição\OperadoresAtribuição\obj\Debug\netcoreapp3.1\OperadoresAtribuição.genruntimeconfig.cache

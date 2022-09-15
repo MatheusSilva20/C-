@@ -1,0 +1,14 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.deps.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.runtimeconfig.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\bin\Debug\netcoreapp3.1\OoperadoresAritmeticos.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\OoperadoresAritmeticos\OoperadoresAritmeticos\obj\Debug\netcoreapp3.1\OoperadoresAritmeticos.genruntimeconfig.cache
