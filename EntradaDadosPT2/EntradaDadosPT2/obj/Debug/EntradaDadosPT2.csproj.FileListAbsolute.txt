@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\bin\Debug\EntradaDadosPT2.exe.config
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\bin\Debug\EntradaDadosPT2.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\bin\Debug\EntradaDadosPT2.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\obj\Debug\EntradaDadosPT2.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\obj\Debug\EntradaDadosPT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\obj\Debug\EntradaDadosPT2.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\obj\Debug\EntradaDadosPT2.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\EntradaDadosPT2\EntradaDadosPT2\obj\Debug\EntradaDadosPT2.pdb
