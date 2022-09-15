@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\bin\Debug\ProblemasemPOO.exe.config
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\bin\Debug\ProblemasemPOO.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\bin\Debug\ProblemasemPOO.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\obj\Debug\ProblemasemPOO.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\obj\Debug\ProblemasemPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\obj\Debug\ProblemasemPOO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\obj\Debug\ProblemasemPOO.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\ProblemasemPOO\ProblemasemPOO\obj\Debug\ProblemasemPOO.pdb

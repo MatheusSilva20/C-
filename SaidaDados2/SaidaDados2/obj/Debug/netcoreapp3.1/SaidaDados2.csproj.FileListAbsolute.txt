@@ -1,0 +1,14 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.deps.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.runtimeconfig.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.runtimeconfig.dev.json
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\bin\Debug\netcoreapp3.1\SaidaDados2.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.AssemblyInfo.cs
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.dll
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\SaidaDados2\SaidaDados2\obj\Debug\netcoreapp3.1\SaidaDados2.genruntimeconfig.cache
