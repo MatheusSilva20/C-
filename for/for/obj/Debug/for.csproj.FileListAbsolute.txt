@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\bin\Debug\@for.exe.config
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\bin\Debug\@for.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\bin\Debug\@for.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\obj\Debug\for.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\obj\Debug\@for.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\for\for\obj\Debug\@for.pdb
