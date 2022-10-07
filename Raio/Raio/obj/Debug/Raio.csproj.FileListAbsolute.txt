@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\bin\Debug\Raio.exe.config
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\bin\Debug\Raio.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\bin\Debug\Raio.pdb
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\obj\Debug\Raio.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\obj\Debug\Raio.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\obj\Debug\Raio.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\obj\Debug\Raio.exe
+C:\Users\matheus.silva\Desktop\ws-vs2022\TesteTabela\Raio\Raio\obj\Debug\Raio.pdb

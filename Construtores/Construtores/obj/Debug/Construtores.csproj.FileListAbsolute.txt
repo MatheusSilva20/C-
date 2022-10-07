@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\obj\Debug\Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\Users\matheus.silva\Desktop\C#\Construtores\Construtores\obj\Debug\Construtores.pdb
