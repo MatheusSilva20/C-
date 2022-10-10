@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe.config
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\bin\Debug\AutoProperties.pdb
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\obj\Debug\AutoProperties.exe
+C:\Users\matheus.silva\Desktop\C#\AutoProperties\AutoProperties\obj\Debug\AutoProperties.pdb
