@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\FuncoesInteressantesString.exe.config
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\FuncoesInteressantesString.exe
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\FuncoesInteressantesString.pdb
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\FuncoesInteressantesString.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\FuncoesInteressantesString.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\FuncoesInteressantesString.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\FuncoesInteressantesString.exe
+C:\Users\matheus.silva\Desktop\C#\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\FuncoesInteressantesString.pdb

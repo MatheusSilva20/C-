@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\bin\Debug\DateTime.exe
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\obj\Debug\DateTime.exe
+C:\Users\matheus.silva\Desktop\C#\Datetime\DateTime\obj\Debug\DateTime.pdb
