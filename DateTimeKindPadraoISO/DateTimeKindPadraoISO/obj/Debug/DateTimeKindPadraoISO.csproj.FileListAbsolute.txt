@@ -1,0 +1,8 @@
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\bin\Debug\DateTimeKindPadraoISO.exe.config
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\bin\Debug\DateTimeKindPadraoISO.exe
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\bin\Debug\DateTimeKindPadraoISO.pdb
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\obj\Debug\DateTimeKindPadraoISO.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\obj\Debug\DateTimeKindPadraoISO.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\obj\Debug\DateTimeKindPadraoISO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\obj\Debug\DateTimeKindPadraoISO.exe
+C:\Users\matheus.silva\Desktop\C#\DateTimeKindPadraoISO\DateTimeKindPadraoISO\obj\Debug\DateTimeKindPadraoISO.pdb
